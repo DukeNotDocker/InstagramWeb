@@ -1,0 +1,8 @@
+/build
+/@backup
+/Logs
+.run_win.bat
+.vscode/*
+.DS_Store
+.cache
+Thumbs.db
